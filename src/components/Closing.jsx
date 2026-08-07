@@ -77,7 +77,7 @@ function PriceCard({ plan, i }) {
       <div className="mt-5">
         <div className="font-mono text-[10.5px] uppercase tracking-[0.2em] text-white/45">Investment</div>
         <div className="mt-2 flex items-baseline gap-2">
-          <span className="text-[34px] font-bold text-white leading-none">Custom</span>
+          <span className="text-[34px] font-bold text-white leading-none">$700</span>
           <span className="text-[12px] text-white/45">pricing</span>
         </div>
         <div className="mt-1.5 text-[11px] text-white/40">based on workflow complexity</div>
