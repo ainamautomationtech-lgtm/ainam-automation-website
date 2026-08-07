@@ -212,13 +212,13 @@ function About() {
                         <span key={deg} className="absolute top-1/2 left-1/2 w-px h-2 bg-gold-400/40"
                               style={{ transform: `translate(-50%, -50%) rotate(${deg}deg) translateY(-92px)` }}></span>
                       ))}
-                      <span className="relative text-[64px] font-bold gold-text font-serif italic leading-none">NT</span>
+                      <span className="relative text-[64px] font-bold gold-text font-serif italic leading-none">A</span>
                     </div>
                   </motion.div>
                 </div>
                 <div className="mt-7 text-center lg:text-left">
-                  <div className="text-[22px] font-semibold text-white tracking-[-0.015em]">Naman Tripathi</div>
-                  <div className="text-[13px] text-gold-300 mt-1">Founder &amp; Automation Engineer</div>
+                  <div className="text-[22px] font-semibold text-white tracking-[-0.015em]">Aakanksha</div>
+                  <div className="text-[13px] text-gold-300 mt-1">AI Automation Engineer</div>
                   <div className="mt-4 flex items-center gap-2 justify-center lg:justify-start">
                     <span className="inline-flex items-center gap-1.5 text-[11px] font-mono text-white/45">
                       <span className="relative inline-flex w-1.5 h-1.5">
@@ -249,7 +249,7 @@ function About() {
               <div className="lg:col-span-8">
                 <div className="text-[10.5px] uppercase tracking-[0.22em] text-white/40 font-mono">Founder note</div>
                 <p className="mt-3 text-[16px] lg:text-[17px] leading-relaxed text-white/80 tracking-[-0.005em]">
-                  <span className="font-semibold text-white">Naman Tripathi</span> is the founder of AINAM Automation. AINAM focuses on practical AI systems that help businesses respond faster, qualify better, and convert more leads — without increasing manual workload.
+                  <span className="font-semibold text-white">Aakanksha</span> is the founder of AINAM Automation. AINAM focuses on practical AI systems that help businesses respond faster, qualify better, and convert more leads — without increasing manual workload.
                 </p>
                 <p className="mt-4 text-[14.5px] leading-relaxed text-white/60">
                   The company builds automation systems that connect lead forms, AI scoring, SMS/email replies, broker alerts, follow-ups, appointment booking, and CRM workflows into one calm, dependable layer your team can rely on.
@@ -280,7 +280,7 @@ function About() {
 
                 {/* signature row */}
                 <div className="mt-7 pt-5 border-t border-white/[0.08] flex flex-wrap items-center justify-between gap-3">
-                  <div className="font-serif italic text-[22px] gold-text leading-none">— Naman</div>
+                  <div className="font-serif italic text-[22px] gold-text leading-none">— Aakanksha</div>
                   <a href="mailto:ainamautomationtech@gmail.com" className="inline-flex items-center gap-1.5 btn-outline rounded-xl px-3.5 py-2 text-[12.5px] font-medium">
                     <Icon.Mail size={13} /> Reply to the founder
                   </a>
